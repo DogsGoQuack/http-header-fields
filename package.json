@@ -1,0 +1,19 @@
+{
+  "name": "http-header-fields",
+  "version": "1.0.0",
+  "description": "Constants for HTTP headers",
+  "main": "index.js",
+  "keywords": [
+    "http",
+    "headers"
+  ],
+  "homepage": "https://github.com/DogsGoQuack/http-header-fields",
+  "bugs": {
+    "url": "https://github.com/DogsGoQuack/http-header-fields/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DogsGoQuack/http-header-fields.git"
+  },
+  "license": "MIT"
+}
